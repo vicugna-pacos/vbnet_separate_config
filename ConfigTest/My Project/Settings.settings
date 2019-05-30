@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="settei3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">value3</Value>
+    </Setting>
+    <Setting Name="constr" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;connectionstring1&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">connectionstring1</Value>
+    </Setting>
+    <Setting Name="settei1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">value1</Value>
+    </Setting>
+    <Setting Name="settei2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">value2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
